@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conferencia", "SerializarXml\Conferencia.csproj", "{5DD650D2-340E-4002-B97F-AB239C89D639}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ConferenciaDeNotas", "ConferenciaDeNotas\ConferenciaDeNotas.vdproj", "{6092B0FD-0A31-4687-9824-84A62A23EC0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DD650D2-340E-4002-B97F-AB239C89D639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD650D2-340E-4002-B97F-AB239C89D639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD650D2-340E-4002-B97F-AB239C89D639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD650D2-340E-4002-B97F-AB239C89D639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6092B0FD-0A31-4687-9824-84A62A23EC0B}.Debug|Any CPU.ActiveCfg = Debug
+		{6092B0FD-0A31-4687-9824-84A62A23EC0B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4DB4547-F3D6-45A1-AB78-41BD95E4D930}
+	EndGlobalSection
+EndGlobal
