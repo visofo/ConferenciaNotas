@@ -1,7 +1,7 @@
-#Leitura Xml NF-e/NFC-e
+#ConferÃªncia NF-e/NFC-e
 
-Leitura Xml NF-e/NFC-e é um projeto desenvolvido no template Windows Forms Application usando 
+ConferÃªncia NF-e/NFC-e Ã© um projeto desenvolvido no template Windows Forms Application usando 
 a linguagem C#. 
 
-O projeto consiste numa tela (form) no qual o usuário poderá selecionar um arquivo xml de 
-uma NF-e ou NFC-e para importação e visualização de suas informações.
+O projeto consiste numa tela (form) no qual o usuÃ¡rio poderÃ¡ selecionar um arquivo xml de 
+uma NF-e ou NFC-e para fazer a conferÃªncia dos itens, utilizando um leitor de cÃ³digo de barras, onde o sistema era comparar a quantiade comprada com a quantidade recebida.
